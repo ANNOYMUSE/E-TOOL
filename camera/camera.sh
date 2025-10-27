@@ -1,6 +1,6 @@
 #!/bin/bash
 # coded by: github.com/thelinuxchoice/saycheese
-# This script modified by Expert hackers
+# This script modified by ARIYAN 2.0 hackers
 # Hearlty thanks for linuxchoice
 # If you use any part from this code, giving me the credits. Read the Lincense!
 clear
@@ -35,9 +35,9 @@ echo "
 
 
 echo " "
-printf "           Script Re-Designed By Expert-Hacker \n" |lolcat
-printf "           YouTube: Expert Hacker \n" |lolcat
-printf "           Last updated: 08-July-2023" |lolcat
+printf "           Script Re-Designed By ARIYAN 2.0-Hacker \n" |lolcat
+printf "           YouTube: ARIYAN 2.0 Hacker \n" |lolcat
+printf "           Last updated: 08-July-2025" |lolcat
 
 printf "\n"
 
