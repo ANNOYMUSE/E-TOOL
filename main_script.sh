@@ -1,5 +1,5 @@
-#Coded By KEERTHAN
-#YouTube:Expert-Hacker
+#Coded By ARIYAN 2.0
+#YouTube:Expert
 clear
 sleep 2
 sl
@@ -8,15 +8,15 @@ echo "
 
 ███████╗ ████████╗ ██████╗  ██████╗ ██╗ 
 ██╔════╝ ╚══██╔══╝██╔═══██╗██╔═══██╗██║     
-█████╗█████╗██║   ██║   ██║██║   ██║██ By: EXPERT HACKER 
+█████╗█████╗██║   ██║   ██║██║   ██║██ By: ARIYAN 2.0 HACKER 
 ██╔══╝╚════╝██║   ██║   ██║██║   ██║██║     
 ███████╗    ██║   ╚██████╔╝╚██████╔╝███████╗
 ╚══════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
 " |lolcat
 
-echo "Coded By KEERTHAN" |lolcat
-echo "YouTube : www.YoutTube.com/Expert Hacker" |lolcat
-echo "Last updated: 08-july-2023" |lolcat
+echo "Coded By ARIYAN 2.0" |lolcat
+echo "YouTube : NO Youtube" |lolcat
+echo "Last updated: 08-july-2025" |lolcat
 
 #MENU DRULIVEN START HERE..!
 echo "---------------------------------"
