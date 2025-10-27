@@ -1,7 +1,7 @@
 #!/bin/bash
 #script by C✓T-L
-#redesciged by Keerthan
-#Youtube : EXPERT HACKER
+#redesciged by Ariyan
+#Youtube : ARIYAN 2.0 HACKER
 clear
 if [[ -e ngrok ]]; then
 rm -rf ngrok
@@ -27,9 +27,9 @@ echo "
 ░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░
 ░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░
 " |lolcat
-printf "Re-Designed By: EXPERT HACKER \n" |lolcat
-printf " YouTube: EXPERT HACKER\n" |lolcat
-printf " Last updated: 08-July-2023" |lolcat
+printf "Designed By: ARIYAN 2.0 HACKER \n" |lolcat
+printf " YouTube: ARIYAN 2.0 HACKER\n" |lolcat
+printf " Last updated: 08-July-2025" |lolcat
 
 
 }
